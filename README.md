@@ -4,7 +4,6 @@
 
 <a href="mailto:flare343gmail.com/"> <img src="https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)])"/> 
 
-[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:flare343gmail.com)
 <div align="center" 
   <div id="header" align="center">   
 <br>
