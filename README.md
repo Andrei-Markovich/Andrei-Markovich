@@ -1,6 +1,7 @@
 ## Hi there 👋 My name is <a href="https://www.linkedin.com/in/andrei-markovich/" rel="nofollow">Andrei Markovich</a>. I'm a Software QA Automation Engineer  
 ##### 3+ years experience in QA with Automation and Manual Testing for Web, Client/Server, Cloud Based, Desktop, and Mobile Applications. Front and Back-end REST API Testing, relational databases End-to-End data tests.
 <a href="https://www.linkedin.com/in/andrei-markovich/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
 <a href="mailto:flare343gmail.com/"> <img src="https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)])"/> 
 
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:flare343gmail.com)
@@ -14,10 +15,6 @@
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkxYjhzNHUxZmp6d2FnN3dsZmwxejV2Z2dwZTQxZXZ6b3ZyOWNwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" height="150" width="200">
 
  <be>
-<details>
-<summary>
-Additional information about me
-</summary>
   
 <h2 align="center">⚙️My Languages and tools:</h2>
   <div align="left">
@@ -30,6 +27,7 @@ Additional information about me
   <!--
 **Andrei-Markovich/Andrei-Markovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<details>
 <summary>
 Additional information about me
 </summary>
