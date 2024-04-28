@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:flare343gmail.com)
 <div align="center" 
 <a href="https://www.linkedin.com/in/andrei-markovich/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-<a href="https://www.linkedin.com/in/andrei-markovich/"> <img src="https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:flare343gmail.com))"/> 
+<a href="mailto:flare343gmail.com/"> <img src="https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)])"/> 
   <div id="header" align="center">   
 <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkxYjhzNHUxZmp6d2FnN3dsZmwxejV2Z2dwZTQxZXZ6b3ZyOWNwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" height="150" width="200">
