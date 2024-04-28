@@ -1,6 +1,7 @@
 ## Hi there 👋 My name is <a href="https://www.linkedin.com/in/andrei-markovich/" rel="nofollow">Andrei Markovich</a>. I'm a Software QA Automation Engineer  
 ##### 3+ years experience in QA with Automation and Manual Testing for Web, Client/Server, Cloud Based, Desktop, and Mobile Applications. Front and Back-end REST API Testing, relational databases End-to-End data tests.
-<a href="https://www.linkedin.com/in/andrei-markovich/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> &nsbp <a href="mailto:flare343gmail.com"> <img src="https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)])"/> 
+<a href="https://www.linkedin.com/in/andrei-markovich/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+<a href="mailto:flare343gmail.com"> <img src="https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)])"/> 
 
 <div align="center" 
   <div id="header" align="center">   
